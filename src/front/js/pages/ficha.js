@@ -46,7 +46,7 @@ export const Ficha = (props) => {
                   {" "}
                   <span className="w400">Frecuencia de riego: </span> En
                   invierno aproximadamente cada {store.plant?.periodo_invierno}{" "}
-                  dias y en verano cada {store.plant?.periodo_verano} dias.
+                  días y en verano cada {store.plant?.periodo_verano} días.
                 </p>
                 <p className="h5 ps-4 pe-5 pb-3">
                   <span className="w400">Consejos de riego: </span>{" "}
@@ -115,7 +115,7 @@ export const Ficha = (props) => {
                   {" "}
                   <span className="w400">Frecuencia de riego: </span> En
                   invierno aproximadamente cada {store.plant?.periodo_invierno}{" "}
-                  dias y en verano cada {store.plant?.periodo_verano} dias.
+                  días y en verano cada {store.plant?.periodo_verano} días.
                 </p>
                 <p className="h5 ps-4 pe-5 pb-3">
                   <span className="w400">Consejos de riego: </span>{" "}
