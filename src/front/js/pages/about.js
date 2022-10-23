@@ -20,7 +20,10 @@ export const About = () => {
       <div className="row">
         <div className="col-md-7 p-5">
           <div>
-            <h2>Green Corner: el final y el principio de nuestro viaje.</h2>
+            <h1 className="resaltado-nosotros">
+              Green Corner: El final y el principio de nuestro viaje
+            </h1>
+            <br></br>
 
             <p className="texto-nosotros">
               Somos Ore, Alex, Abril y Pablo, el <i>team</i> encargado de que
@@ -29,20 +32,20 @@ export const About = () => {
 
             <p className="texto-nosotros">
               Cuando creamos Green Corner lo hicimos con una idea en mente:
-              ayudar a las personas con el cuidado de las plantas de casa. Para
-              lograrlo, implementamos una tecnología capaz de enviar avisos
+              Ayudar a las personas con el cuidado de las plantas de casa. Para
+              lograrlo, implementamos una herramienta capaz de enviar avisos
               directamente al móvil que recuerdan la frecuencia de riego exacta
               de cada tipo de planta.
             </p>
 
-            <h5>
-              (Ni olvido ni perdón para el último cactus que dejaste morir).
-            </h5>
+            <h4 className="resaltado-nosotros">
+              |Ni olvido ni perdón para el último cactus que dejaste morir|
+            </h4>
 
             <p className="texto-nosotros">
               Sabemos que integrar diferentes tipos de plantas, tanto en el
               interior como en el exterior, convierten una estancia anodina en
-              un lugar lleno de vida. Pero a menudo olvidamos que para que eso
+              un lugar lleno de vida, pero a menudo olvidamos que para que esto
               ocurra, <strong>cada planta merece un tipo de cuidado.</strong>
             </p>
 
@@ -51,7 +54,7 @@ export const About = () => {
               tus plantas (diferenciadas por nombre y clasificación), y la web
               se encargará de recordarte periodos de riego mediante
               notificaciones en Telegram o Google Calendar. De esta forma, tus
-              plantas siempre lucirán verdes y bonitas.
+              plantas siempre lucirán verdes, sanas y bonitas.
             </p>
 
             <p className="texto-nosotros">
@@ -60,13 +63,13 @@ export const About = () => {
               carreras:
             </p>
 
-            <h4>
+            <h4 className="resaltado-nosotros">
               El final de nuestro viaje como alumnos y el inicio de nuestro
-              camino profesional.
+              camino profesional
             </h4>
 
             <p className="texto-nosotros">
-              Todos venimos de disciplinas bien distintas, así que Green Corner
+              Todos venimos de disciplinas muy distintas, así que Green Corner
               nos hace sentir especialmente orgullosos.
             </p>
 
@@ -78,7 +81,10 @@ export const About = () => {
 
             <p className="texto-nosotros">Y lo logramos.</p>
 
-            <h4>No dejes morir tus plantas, únete a Green Corner.</h4>
+            <h4 className="resaltado-nosotros">
+              No dejes morir tus plantas, únete a Green Corner, porque un hogar
+              lleno de plantas es un lugar lleno de vida
+            </h4>
           </div>
           <div className="btn row mt-5 d-flex justify-content-around">
             <div className="col-md-3 bg-white p-3 " style={{ width: "auto" }}>
