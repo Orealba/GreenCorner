@@ -11,7 +11,7 @@ export const CuidadosPlantas = () => {
       <div className="row">
         <div className="col-sm-8 cuidado-plantas-header-texto">
           <HeaderInfoPlantas
-            title="CUIDADO DE PLANTAS"
+            title="Cuidado de plantas"
             summary="Es importante saber algunos cuidados específicos para mejorar la vida de nuestras plantas, para que así puedan vivir sanamente y por mucho tiempo. Por ello te dejamos estos tips que debes tener en cuenta a la hora de cuidarlas:"
           />
 
