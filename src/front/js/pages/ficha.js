@@ -56,7 +56,7 @@ export const Ficha = (props) => {
                   <span className="w400">Poda: </span> {store.plant?.poda}
                 </p>
                 <p className="h5 ps-4 pe-5 pb-3">
-                  <span className="w400">Transplante: </span>{" "}
+                  <span className="w400">Trasplante: </span>{" "}
                   {store.plant?.trasplante}
                 </p>
               </div>
@@ -125,7 +125,7 @@ export const Ficha = (props) => {
                   <span className="w400">Poda: </span> {store.plant?.poda}
                 </p>
                 <p className="h5 ps-4 pe-5 pb-3">
-                  <span className="w400">Transplante: </span>{" "}
+                  <span className="w400">Trasplante: </span>{" "}
                   {store.plant?.trasplante}
                 </p>
               </div>
